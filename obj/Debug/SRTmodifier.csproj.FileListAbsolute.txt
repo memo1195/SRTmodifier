@@ -1,0 +1,9 @@
+C:\Users\Guillermo Duarte\source\repos\SRTmodifier\SRTmodifier\bin\Debug\SRTmodifier.exe.config
+C:\Users\Guillermo Duarte\source\repos\SRTmodifier\SRTmodifier\bin\Debug\SRTmodifier.exe
+C:\Users\Guillermo Duarte\source\repos\SRTmodifier\SRTmodifier\bin\Debug\SRTmodifier.pdb
+C:\Users\Guillermo Duarte\source\repos\SRTmodifier\SRTmodifier\obj\Debug\SRTmodifier.csprojAssemblyReference.cache
+C:\Users\Guillermo Duarte\source\repos\SRTmodifier\SRTmodifier\obj\Debug\SRTmodifier.Form1.resources
+C:\Users\Guillermo Duarte\source\repos\SRTmodifier\SRTmodifier\obj\Debug\SRTmodifier.Properties.Resources.resources
+C:\Users\Guillermo Duarte\source\repos\SRTmodifier\SRTmodifier\obj\Debug\SRTmodifier.csproj.GenerateResource.cache
+C:\Users\Guillermo Duarte\source\repos\SRTmodifier\SRTmodifier\obj\Debug\SRTmodifier.exe
+C:\Users\Guillermo Duarte\source\repos\SRTmodifier\SRTmodifier\obj\Debug\SRTmodifier.pdb
