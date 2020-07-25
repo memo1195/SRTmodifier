@@ -138,7 +138,6 @@ namespace SRTmodifier
 
         private void button6_Click(object sender, EventArgs e)
         {
-            Console.Clear();
             label3.Visible = false;
             using (var sw = new StreamWriter(textBox1.Text))
             { 
