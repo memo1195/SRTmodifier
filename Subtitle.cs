@@ -68,9 +68,15 @@ namespace SRTmodifier
             EndTime -= time;
         }
 
+        private string _SetLength(string input)
+        {
+            return input.Length > 12 ? input.Substring(0, 12) : input;
+        }
         private void _settimespan()
         {
-            _timespan = (StartTime.ToString() + ' ' + _connector + ' ' + EndTime.ToString()).Replace('.', ',');
+            var startTime = _SetLength(StartTime.ToString());
+            var endTime = _SetLength(EndTime.ToString());
+            _timespan = ( startTime + ' ' + _connector + ' ' + endTime).Replace('.', ',');
         }
     }
 }

@@ -40,9 +40,10 @@ namespace SRTmodifier
         private void button1_Click(object sender, EventArgs e)
         {
             _labels.ForEach(x => x.Visible = false);
+            var username = Environment.UserName;
             OpenFileDialog openFileDialog1 = new OpenFileDialog
             {
-                InitialDirectory = @"C:\Users\Guillermo Duarte\Downloads\",
+                InitialDirectory = @"C:\Users\" + username,
                 Title = "BrowseTextFiles",
 
                 CheckFileExists = true,
